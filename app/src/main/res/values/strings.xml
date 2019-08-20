@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BackgroundColorApp</string>
+    <string name="change_color">تغییر رنگ پس زمینه</string>
+    <string name="color_name">رنگ:</string>
+    <string name="color_indicator">#</string>
+    <string name="default_color">ffffff</string>
+    <string name="save">ذخیره</string>
+</resources>
